@@ -4,14 +4,14 @@ Low-level systems developer focused on reverse engineering, game internals, and 
 
 ---
 
-## 🧠 About Me
+## About Me
 
 - Computer Science student (technical track)
 - Deep interest in how systems actually work under the hood
 - Prefers building low-level and performance-driven projects
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 **Languages:**
 - C / C++
