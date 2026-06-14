@@ -31,7 +31,7 @@ Low-level systems developer focused on reverse engineering, game internals, and 
 
 ---
 
-## 🧪 Mentality
+## Mentality
 
 I prefer:
 - Understanding systems from binary to runtime
