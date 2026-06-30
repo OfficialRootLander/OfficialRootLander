@@ -30,9 +30,3 @@ Low-level systems developer focused on reverse engineering, game internals, and 
 - Debuggers, disassemblers, and packet analysis tools
 
 ---
-
-## Mentality
-
-I prefer:
-- Understanding systems from binary to runtime
-- Breaking things to understand them
